@@ -4,6 +4,6 @@ var saludo = "Hola Gonza"
 
 console.log (saludo) 
 
-var nombre = "Gonzalito"
+var nombre = "Gonzaliño"
 
 console.log ("Hola " +nombre)
