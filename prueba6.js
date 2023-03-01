@@ -17,7 +17,7 @@ if (esUsuarioValido) {
 }
  */
 
-var nombre = "Gonza";
+var nombre = "Gonzaliño";
 var array = [23, "Luraschi", true];
 var err = [true, "Contrasenia incorrecta"];
 //           0       1         2
