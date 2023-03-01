@@ -6,4 +6,4 @@ console.log (saludo)
 
 var nombre = "Gonzaliño"
 
-console.log ("Hola " +nombre)
+console.log ("Hola " +nombre + "como estas? ")
