@@ -1,7 +1,7 @@
 // Crear funcion login que recibe usuario y contrasena, mostrar mensaje.
 
 var nom = "Gonza";
-var pass = "gonzaliño";
+var pass = "gonzalito de alberti";
 var permisos = "internet";
 
 function login(nom, pass, permisos) {
